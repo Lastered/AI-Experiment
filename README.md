@@ -1,9 +1,11 @@
 # AI-Experiment
-![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
+[![Static Badge](https://img.shields.io/badge/Made_with-Unity-57b9d3?style=flat&logo=unity)](https://unity3d.com)
+[![Static Badge](https://img.shields.io/badge/Made_with-OpenAI-74aa9c?style=flat&logo=openai)](https://openai.com)
+[![Static Badge](https://img.shields.io/badge/Made_with-C%23-239120?style=flat&logo=csharp)](https://)
 
 ## About
 
-Experimenting with AI integration in Unity, connecting AI output with steam chat and donation input.
+Experimenting with AI integration in Unity, connecting AI output with stream chat and donation input.
 
 - Inspired by ai streams such as ai_sponge and Nothing, Forever
 
