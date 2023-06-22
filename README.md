@@ -7,7 +7,7 @@
 
 Experimenting with AI integration in Unity, connecting AI output with stream chat and donation input.
 
-- Inspired by ai streams such as ai_sponge and Nothing, Forever
+- Inspired by streams such as ai_sponge and Nothing, Forever
 
 ## Resources
 
